@@ -1,3 +1,3 @@
 # TheNewEra
-A simple open-source pygame template
-It full-screen not like other templates.
+A simple open-source pygame template.
+It's full-screen not like other templates.
